@@ -36,7 +36,7 @@ Options:
   --cloud-id TEXT
 
 
-* experimental commands are use at your own risk and may change without warning *
+* experimental commands are used at your own risk and may change without warning *
 
 Usage: detection_rules es experimental ml [OPTIONS] COMMAND [ARGS]...
 
